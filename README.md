@@ -86,7 +86,6 @@ graph TD
     ```plaintext
     # .env
     GOOGLE_API_KEY="your_google_api_key"
-    HYPERLIQUID_API_KEY="your_hyperliquid_api_key"
     HYPERLIQUID_SECRET_KEY="your_hyperliquid_secret_key"
     HYPERLIQUID_WALLET_ADDRESS="your_wallet_address"
     ```
